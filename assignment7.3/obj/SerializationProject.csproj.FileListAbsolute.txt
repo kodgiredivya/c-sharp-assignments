@@ -1,0 +1,8 @@
+C:\SerializationProject\SerializationProject\obj\Debug\ResolveAssemblyReference.cache
+C:\SerializationProject\SerializationProject\obj\Debug\SerializationProject.Form1.resources
+C:\SerializationProject\SerializationProject\obj\Debug\SerializationProject.Properties.Resources.resources
+C:\SerializationProject\SerializationProject\obj\Debug\SerializationProject.csproj.GenerateResource.Cache
+C:\SerializationProject\SerializationProject\bin\Debug\SerializationProject.exe
+C:\SerializationProject\SerializationProject\bin\Debug\SerializationProject.pdb
+C:\SerializationProject\SerializationProject\obj\Debug\SerializationProject.exe
+C:\SerializationProject\SerializationProject\obj\Debug\SerializationProject.pdb

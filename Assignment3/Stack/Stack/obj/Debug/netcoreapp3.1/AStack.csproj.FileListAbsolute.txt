@@ -1,0 +1,14 @@
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\bin\Debug\netcoreapp3.1\AStack.exe
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\bin\Debug\netcoreapp3.1\AStack.deps.json
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\bin\Debug\netcoreapp3.1\AStack.runtimeconfig.json
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\bin\Debug\netcoreapp3.1\AStack.runtimeconfig.dev.json
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\bin\Debug\netcoreapp3.1\AStack.dll
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\bin\Debug\netcoreapp3.1\AStack.pdb
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\obj\Debug\netcoreapp3.1\AStack.csproj.AssemblyReference.cache
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\obj\Debug\netcoreapp3.1\AStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\obj\Debug\netcoreapp3.1\AStack.AssemblyInfoInputs.cache
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\obj\Debug\netcoreapp3.1\AStack.AssemblyInfo.cs
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\obj\Debug\netcoreapp3.1\AStack.csproj.CoreCompileInputs.cache
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\obj\Debug\netcoreapp3.1\AStack.dll
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\obj\Debug\netcoreapp3.1\AStack.pdb
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment3\Stack\Stack\obj\Debug\netcoreapp3.1\AStack.genruntimeconfig.cache

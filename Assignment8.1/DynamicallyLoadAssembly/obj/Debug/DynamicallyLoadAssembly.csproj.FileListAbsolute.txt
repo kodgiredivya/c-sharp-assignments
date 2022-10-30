@@ -1,0 +1,12 @@
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\bin\Debug\DynamicallyLoadAssembly.exe
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\bin\Debug\DynamicallyLoadAssembly.pdb
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\bin\Debug\BusinessLogic.dll
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\bin\Debug\BusinessLogic.pdb
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.csproj.AssemblyReference.cache
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.Form1.resources
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.Properties.Resources.resources
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.csproj.GenerateResource.cache
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.csproj.CopyComplete
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.exe
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment8.1\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.pdb

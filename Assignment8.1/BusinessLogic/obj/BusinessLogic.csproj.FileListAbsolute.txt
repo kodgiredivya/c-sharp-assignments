@@ -1,0 +1,5 @@
+d:\sridhar\DynamicallyLoadAssembly\BusinessLogic\bin\Debug\BusinessLogic.dll
+d:\sridhar\DynamicallyLoadAssembly\BusinessLogic\bin\Debug\BusinessLogic.pdb
+d:\sridhar\DynamicallyLoadAssembly\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+d:\sridhar\DynamicallyLoadAssembly\BusinessLogic\obj\Debug\BusinessLogic.dll
+d:\sridhar\DynamicallyLoadAssembly\BusinessLogic\obj\Debug\BusinessLogic.pdb

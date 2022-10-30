@@ -1,0 +1,21 @@
+C:\Users\welcome\source\repos\assignment7UI\assignment7UI\bin\Debug\assignment7UI.exe.config
+C:\Users\welcome\source\repos\assignment7UI\assignment7UI\bin\Debug\assignment7UI.exe
+C:\Users\welcome\source\repos\assignment7UI\assignment7UI\bin\Debug\assignment7UI.pdb
+C:\Users\welcome\source\repos\assignment7UI\assignment7UI\obj\Debug\assignment7UI.csproj.AssemblyReference.cache
+C:\Users\welcome\source\repos\assignment7UI\assignment7UI\obj\Debug\assignment7UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\welcome\source\repos\assignment7UI\assignment7UI\obj\Debug\assignment7UI.Form1.resources
+C:\Users\welcome\source\repos\assignment7UI\assignment7UI\obj\Debug\assignment7UI.Properties.Resources.resources
+C:\Users\welcome\source\repos\assignment7UI\assignment7UI\obj\Debug\assignment7UI.csproj.GenerateResource.cache
+C:\Users\welcome\source\repos\assignment7UI\assignment7UI\obj\Debug\assignment7UI.csproj.CoreCompileInputs.cache
+C:\Users\welcome\source\repos\assignment7UI\assignment7UI\obj\Debug\assignment7UI.exe
+C:\Users\welcome\source\repos\assignment7UI\assignment7UI\obj\Debug\assignment7UI.pdb
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment7.2\assignment7UI\bin\Debug\assignment7UI.exe.config
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment7.2\assignment7UI\bin\Debug\assignment7UI.exe
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment7.2\assignment7UI\bin\Debug\assignment7UI.pdb
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment7.2\assignment7UI\obj\Debug\assignment7UI.csproj.AssemblyReference.cache
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment7.2\assignment7UI\obj\Debug\assignment7UI.Form1.resources
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment7.2\assignment7UI\obj\Debug\assignment7UI.Properties.Resources.resources
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment7.2\assignment7UI\obj\Debug\assignment7UI.csproj.GenerateResource.cache
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment7.2\assignment7UI\obj\Debug\assignment7UI.csproj.CoreCompileInputs.cache
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment7.2\assignment7UI\obj\Debug\assignment7UI.exe
+C:\Users\Divya Ashish Kodgire\source\repos\Assignment7.2\assignment7UI\obj\Debug\assignment7UI.pdb

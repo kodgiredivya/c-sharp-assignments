@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicallyLoadAssembly", "DynamicallyLoadAssembly\DynamicallyLoadAssembly.csproj", "{0E3AE83E-B6DA-4FC8-879E-88CDD7D0519D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{61225245-9C1D-42E7-9952-7303A8C08FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E3AE83E-B6DA-4FC8-879E-88CDD7D0519D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3AE83E-B6DA-4FC8-879E-88CDD7D0519D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3AE83E-B6DA-4FC8-879E-88CDD7D0519D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3AE83E-B6DA-4FC8-879E-88CDD7D0519D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61225245-9C1D-42E7-9952-7303A8C08FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61225245-9C1D-42E7-9952-7303A8C08FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61225245-9C1D-42E7-9952-7303A8C08FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61225245-9C1D-42E7-9952-7303A8C08FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

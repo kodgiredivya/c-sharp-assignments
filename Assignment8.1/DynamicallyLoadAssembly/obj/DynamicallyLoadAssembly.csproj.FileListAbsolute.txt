@@ -1,0 +1,12 @@
+d:\sridhar\DynamicallyLoadAssembly\DynamicallyLoadAssembly\bin\Debug\DynamicallyLoadAssembly.exe
+d:\sridhar\DynamicallyLoadAssembly\DynamicallyLoadAssembly\bin\Debug\DynamicallyLoadAssembly.pdb
+d:\sridhar\DynamicallyLoadAssembly\DynamicallyLoadAssembly\obj\Debug\ResolveAssemblyReference.cache
+d:\sridhar\DynamicallyLoadAssembly\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.Form1.resources
+d:\sridhar\DynamicallyLoadAssembly\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.Properties.Resources.resources
+d:\sridhar\DynamicallyLoadAssembly\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.csproj.GenerateResource.Cache
+d:\sridhar\DynamicallyLoadAssembly\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.exe
+d:\sridhar\DynamicallyLoadAssembly\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.pdb
+d:\sridhar\DynamicallyLoadAssembly\DynamicallyLoadAssembly\bin\Debug\BusinessLogic.dll
+d:\sridhar\DynamicallyLoadAssembly\DynamicallyLoadAssembly\bin\Debug\BusinessLogic.pdb
+D:\sridhar\SridharSubramanianDynamicallyLoadAssembly\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.exe
+D:\sridhar\SridharSubramanianDynamicallyLoadAssembly\DynamicallyLoadAssembly\obj\Debug\DynamicallyLoadAssembly.pdb
